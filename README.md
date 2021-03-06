@@ -2,15 +2,15 @@
 <br>
 
 ## **Temas a tratar**
-### Sintaxis basica <br>
-### Operadores y condicionales <br>
-### Ciclos for y while <br>
-### Metodos de string <br>
-### Array<br>
-### Tuplas<br>
-### Diccionarios<br>
-### Funciones 
+1. Sintaxis basica <br>
+2. Operadores y condicionales <br>
+3. Ciclos for y while <br>
+4. Metodos de string <br>
+5. Array<br>
+6. Tuplas<br>
+7. Diccionarios<br>
+8. Funciones 
 
-## ***Ejercicios interesantes***
+9. #### ***Carpeta Ejercicios interesantes***
 
 En esta carpeta se encuentran una serie de ejercicios que me han parecido interesante tanto la realizacion del programa como lo que hace.:v:
